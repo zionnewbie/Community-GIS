@@ -1,6 +1,19 @@
-# Community-GIS
- GIS 
+############################
+1.DOWNLOAD THE ZIP
+2.EXTARCT with default or for fast extraction use winrar or 7zip
+3.Use an IDE of your choice and navigate to the folder or open the folder in an IDE
+4. type "node server.js" and start the server 
+5. Load any Browser of your choice and Use the LocaklHost link  from the terminal.
+###########################
 
+We are still learning new things and developing alond with it !
+
+# Community-GIS
+
+GIS- The **Community Mapping GIS** project helps communities understand local issues like pollution, infrastructure, and
+resource access by visualizing them on maps. It uses open data from **NASA** and **SEDAC** to show how geography affects these issues,
+empowering users to make informed decisions
+ 
 #Our Aim
 //topic was from NASA Space App Challenge 2024//
 //Will try to develop ,this app// 
