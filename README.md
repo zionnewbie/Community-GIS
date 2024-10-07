@@ -1,9 +1,9 @@
 # ###########################
-1.DOWNLOAD THE ZIP
-2.EXTARCT with default or for fast extraction use winrar or 7zip
-3.Use an IDE of your choice and navigate to the folder or open the folder in an IDE
-4. type "node server.js" and start the server 
-5. Load any Browser of your choice and Use the LocaklHost link  from the terminal.
+ # 1.DOWNLOAD THE ZIP
+ # 2.EXTARCT with default or for fast extraction use winrar or 7zip
+ # 3.Use an IDE of your choice and navigate to the folder or open the folder in an IDE
+ # 4. type "node server.js"in terminal of the IDE and start the server 
+ # 5. Load any Browser of your choice and Use the LocalHost link  from the terminal.
 # ##########################
 
 We are still learning new things and developing alond with it !
